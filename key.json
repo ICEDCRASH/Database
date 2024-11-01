@@ -1,3 +1,4 @@
 [
-    {"key": "adminiced", "expiration": "2025-01-31T23:59:59Z"}
+    {"key": "adminiced", "expiration": "2025-01-31T23:59:59Z"},
+    {"key": "newkey", "expiration": "2025-01-31T23:59:59Z"}
 ]
